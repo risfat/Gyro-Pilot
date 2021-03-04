@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #********************************************************************
-#					Created By Md. Risfat Amin					    #
-#	     Find Me  md@risfbd.com or risfat@devtech365.com	        #
+#			Created By Md. Risfat Amin		    #
+#	    Find Me  md@risfbd.com or risfat@devtech365.com	    #
 #********************************************************************
 
 #variables
